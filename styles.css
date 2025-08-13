@@ -17,7 +17,7 @@ h1, h2, p {
 }
 
 .banner {
-    background-image: url('.assets/images/banner.png'), radial-gradient(ellipse, hsla(198, 72%, 53%, 0.103), rgba(0, 0, 0, 0.6));
+    background-image: url('./assets/images/banner.png'), radial-gradient(ellipse, hsla(198, 72%, 53%, 0.103), rgba(0, 0, 0, 0.6));
     background-repeat: no-repeat;
     background-size: cover;
     border-bottom: 1px solid #33A8DB;
@@ -131,7 +131,7 @@ h2 {
 #transform-world{
     height: 363px;
     background-color: transparent;
-    background-image: url('.assets/images/woman-code.png');
+    background-image: url('./assets/images/woman-code.png');
     background-size: 100%;
     object-fit: cover;
     background-repeat: no-repeat;
